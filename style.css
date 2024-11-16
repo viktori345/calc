@@ -1,0 +1,15 @@
+.calc{
+    background-color: antiquewhite;
+    background: 2px solid black;
+    border-radius: 20px;
+    width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+}
+.res{
+    padding: 20px;
+    font-size: 15px;
+    background-color: rgb(224, 191, 255);
+    border-radius: 20px;
+    width: 200px;
+}
